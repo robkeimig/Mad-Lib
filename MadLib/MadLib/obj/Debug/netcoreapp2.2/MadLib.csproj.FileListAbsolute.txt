@@ -1,0 +1,11 @@
+C:\Users\Hunter\source\repos\MadLib\MadLib\bin\Debug\netcoreapp2.2\MadLib.deps.json
+C:\Users\Hunter\source\repos\MadLib\MadLib\bin\Debug\netcoreapp2.2\MadLib.runtimeconfig.json
+C:\Users\Hunter\source\repos\MadLib\MadLib\bin\Debug\netcoreapp2.2\MadLib.runtimeconfig.dev.json
+C:\Users\Hunter\source\repos\MadLib\MadLib\bin\Debug\netcoreapp2.2\MadLib.dll
+C:\Users\Hunter\source\repos\MadLib\MadLib\bin\Debug\netcoreapp2.2\MadLib.pdb
+C:\Users\Hunter\source\repos\MadLib\MadLib\obj\Debug\netcoreapp2.2\MadLib.csprojAssemblyReference.cache
+C:\Users\Hunter\source\repos\MadLib\MadLib\obj\Debug\netcoreapp2.2\MadLib.csproj.CoreCompileInputs.cache
+C:\Users\Hunter\source\repos\MadLib\MadLib\obj\Debug\netcoreapp2.2\MadLib.AssemblyInfoInputs.cache
+C:\Users\Hunter\source\repos\MadLib\MadLib\obj\Debug\netcoreapp2.2\MadLib.AssemblyInfo.cs
+C:\Users\Hunter\source\repos\MadLib\MadLib\obj\Debug\netcoreapp2.2\MadLib.dll
+C:\Users\Hunter\source\repos\MadLib\MadLib\obj\Debug\netcoreapp2.2\MadLib.pdb
