@@ -52,19 +52,16 @@ namespace MadLib
 
             Console.Write("Type a whole number: ");
                 number2 = Console.ReadLine();
-            
-            Console.WriteLine("Pizza was invented by a " + adjective1 +", " + nationality);
-            Console.WriteLine("chef named " + person + ". To make a pizza, ");
-            Console.WriteLine("you need to take a lump of " + noun1 + " and make a thin, round ");
-            Console.WriteLine(adjective2 + " " + noun2 + ".");
-            Console.WriteLine(" Now, you cover it with " + adjective3 + " sauce, " + adjective4);
-            Console.WriteLine("cheese, and fresh chopped " + pluralNoun + ". Next you have to bake ");
-            Console.WriteLine("it in a very hot " + noun3 + ". When it is done, cut it into " + number1 + " ");
-            Console.WriteLine(shape + ". Some kids like " + food1 + " pizza the best, but my favorite is the ");
-            Console.WriteLine(food2 + " pizza. If I could, I would eat pizza " + number2 + " times a day!");
+
+            Console.Write(
+$@"Pizza was invented by a {adjective1}, {nationality} chef named {person}.
+To make a pizza, you need to take a lump of {noun1} and make a thin round {adjective2} {noun2}.
+Now, you cover it with {adjective3} sauce, {adjective4} cheese, and fresh chopped {pluralNoun}.
+Next, you have to bake it in a very hot {noun3}. When it is done, cut it into {number1} {shape}.
+Some kids like {food1} pizza the best, but my favorite is the {food2} pizza. 
+If I could, I would eat pizza {number2} times a day!");
+
             Console.ReadLine();
-
-
         }
     }
 }
